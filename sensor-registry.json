@@ -1,7 +1,7 @@
 { "packages": [
   {
       "name": "community-bme280",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "description": "BME280 community package",
       "url": "https://codeload.github.com/k-k-semasinghe/community-bme280/zip/refs/tags/v1.0.2",
       "sha256": ""
