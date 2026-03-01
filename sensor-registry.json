@@ -13,13 +13,6 @@
       "description": "BME280 community package",
       "url": "https://github.com/k-k-semasinghe/community-bme280/releases/download/v1.0.3/community-bme280-main.zip",
       "sha256": ""
-    },
-    {
-      "name": "incompatible_pkg",
-      "version": "v1.0.1",
-      "description": "incampatible pkg",
-      "url": "https://github.com/k-k-semasinghe/incompatible_pkg/releases/download/v1.0.1/incompatible_pkg-main.zip",
-      "sha256": ""
     }
   ]
 }
