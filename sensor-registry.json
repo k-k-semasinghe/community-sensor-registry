@@ -13,6 +13,13 @@
       "description": "BME280 community package",
       "url": "https://github.com/k-k-semasinghe/community-bme280/releases/download/v1.0.3/community-bme280-main.zip",
       "sha256": ""
+    },
+    {
+      "name": "community-good",
+      "version": "1.0.1",
+      "description": "good community package",
+      "url": "https://github.com/kk-semasinghe/good_sensor/releases/download/1.0.1/good_sensor-main.1.zip",
+      "sha256": ""
     }
   ]
 }
